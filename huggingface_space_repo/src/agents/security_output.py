@@ -79,6 +79,7 @@ def security_agent_output(state: dict) -> dict:
     stored_entry = audit_logger.log(audit_entry)
 
     result = {
+        "ticket_id": ticket_id,          # propagate so app.py banner shows real ID
         "final_response": final_response,
         "pii_flags_output": pii_flags_output,
         "pii_details_output": pii_details_output,
