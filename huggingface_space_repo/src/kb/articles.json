@@ -1,0 +1,233 @@
+[
+  {
+    "id": "kb_fraud_001",
+    "title": "Lost or Stolen Card — Immediate Steps",
+    "category": "Fraud",
+    "subcategory": "lost_stolen_card",
+    "policy_version": "2026-03",
+    "content": "If your Nimbus Bank debit or credit card has been lost or stolen, take these steps immediately:\n\n1. Lock your card instantly through the Nimbus Bank mobile app or online banking portal. Navigate to Cards > Card Controls > Lock Card. This prevents any new transactions while you report the issue.\n\n2. Call our 24/7 Fraud Hotline at 1-800-NIMBUS-1 (1-800-646-2871). A fraud specialist will cancel the compromised card and issue a replacement within 3-5 business days. Expedited replacement (1-2 business days) is available for a $25 fee.\n\n3. Review your recent transactions in the app or online. Flag any charges you do not recognize — our fraud team will investigate each one.\n\n4. File a police report if you believe your card was physically stolen. While not required to receive fraud protection, a police report strengthens your claim and may be needed for charges exceeding $500.\n\nNimbus Bank's zero-liability policy means you will not be held responsible for unauthorized charges made after you report the card lost or stolen. For charges made before your report, your liability is limited to $50 if reported within two business days, as required by federal Regulation E.",
+    "tags": ["lost_card", "stolen_card", "card_lock", "zero_liability", "regulation_e"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-15"
+  },
+  {
+    "id": "kb_fraud_002",
+    "title": "Reporting Unauthorized Charges",
+    "category": "Fraud",
+    "subcategory": "unauthorized_transaction",
+    "policy_version": "2026-03",
+    "content": "If you notice a charge on your Nimbus Bank account that you did not authorize, here is how to report it and what to expect:\n\n**How to Report:**\n- Through the Nimbus Bank app: Tap the transaction > Report a Problem > I didn't make this purchase.\n- By phone: Call 1-800-NIMBUS-1 and select option 2 for fraud.\n- In branch: Visit any Nimbus Bank location with a valid photo ID.\n\n**What Happens Next:**\n- We will issue a provisional credit to your account within 10 business days while we investigate.\n- Our fraud team will investigate the charge, which may take up to 45 calendar days (90 days for new accounts or international transactions).\n- You will receive a written notice of the investigation outcome.\n\n**Your Rights Under Regulation E:**\n- If you report within 2 business days of discovering the fraud, your maximum liability is $50.\n- If you report between 2 and 60 calendar days, your liability may increase to $500.\n- After 60 days, you may be liable for the full amount of unauthorized transfers.\n\n**Important:** Do not close your account before the investigation is complete, as this may complicate the process. Your card will be canceled and replaced, but the underlying account remains open for the investigation.",
+    "tags": ["unauthorized_charge", "regulation_e", "provisional_credit", "fraud_investigation"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-15"
+  },
+  {
+    "id": "kb_fraud_003",
+    "title": "Regulation E Timeline and Your Rights",
+    "category": "Fraud",
+    "subcategory": "regulation_e",
+    "policy_version": "2026-03",
+    "content": "Federal Regulation E protects consumers who use electronic fund transfers, including debit card transactions, ATM withdrawals, and online banking transfers. Here is what Nimbus Bank customers need to know:\n\n**Reporting Deadlines:**\n- Report unauthorized transactions as soon as possible. The sooner you report, the more protection you have.\n- Within 2 business days: Maximum liability of $50.\n- Between 2 and 60 calendar days: Maximum liability of $500.\n- After 60 calendar days: You could lose all the money taken from your account.\n\n**Investigation Timeline:**\n- Nimbus Bank must acknowledge your report within 1 business day.\n- We must complete our investigation within 10 business days (20 days for new accounts).\n- If we need more time, we will issue a provisional credit and may take up to 45 calendar days (90 days for new accounts, POS transactions, or international transfers).\n- You will receive written results within 3 business days of completing our investigation.\n\n**Your Rights:**\n- You have the right to request copies of documents relied upon in the investigation.\n- If we determine no error occurred, we will explain our findings and you have the right to request the documents we used.\n- Provisional credits will be reversed if we find the transactions were authorized, with at least 5 days written notice.\n\nNimbus Bank takes every fraud report seriously. Our goal is to resolve your case as quickly as possible while protecting your rights.",
+    "tags": ["regulation_e", "timeline", "liability", "provisional_credit", "consumer_rights"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-10"
+  },
+  {
+    "id": "kb_fraud_004",
+    "title": "Fraud Prevention Best Practices",
+    "category": "Fraud",
+    "subcategory": "prevention",
+    "policy_version": "2026-03",
+    "content": "Protect your Nimbus Bank account with these security best practices:\n\n**Online Safety:**\n- Never share your login credentials, PIN, or one-time passcodes with anyone — Nimbus Bank will never ask for these via email, text, or phone.\n- Enable two-factor authentication (2FA) on your Nimbus Bank account through Settings > Security > Two-Factor Authentication.\n- Use unique, strong passwords for your banking accounts. We recommend at least 12 characters with a mix of letters, numbers, and symbols.\n\n**Card Safety:**\n- Enable transaction alerts in the Nimbus Bank app to receive instant notifications for every purchase.\n- Use the card lock feature when you are not actively using your card.\n- When using ATMs, cover the keypad when entering your PIN and prefer Nimbus Bank-branded ATMs.\n\n**Recognizing Scams:**\n- Nimbus Bank will never call you and ask you to transfer money to a \"safe\" account.\n- Be suspicious of unsolicited calls or messages claiming to be from the bank, even if the caller ID looks legitimate.\n- If in doubt, hang up and call our official number: 1-800-NIMBUS-1.\n\n**What to Do If You Suspect Fraud:**\n- Lock your card immediately in the app.\n- Call our fraud hotline.\n- Do not delete suspicious emails or texts — forward them to fraud@nimbusbank.com for investigation.",
+    "tags": ["fraud_prevention", "security", "2fa", "scams", "best_practices"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_fraud_005",
+    "title": "Nimbus Bank Liability Policy for Unauthorized Transactions",
+    "category": "Fraud",
+    "subcategory": "liability",
+    "policy_version": "2026-03",
+    "content": "Nimbus Bank is committed to protecting our customers from fraud. Here is our liability policy:\n\n**Zero-Liability Protection:**\nNimbus Bank offers zero-liability protection on all credit card transactions and on debit card transactions reported promptly. This means you will not be responsible for unauthorized purchases if you report them in a timely manner.\n\n**Debit Card Liability (Per Regulation E):**\n- Reported within 2 business days of discovery: Maximum $50 liability.\n- Reported between 2 and 60 calendar days: Maximum $500 liability.\n- Reported after 60 calendar days from your statement date: Potentially unlimited liability.\n\n**Credit Card Liability (Per Regulation Z):**\n- Maximum liability of $50 for unauthorized charges, regardless of when reported.\n- Most major card networks (Visa, Mastercard) offer additional zero-liability policies.\n\n**Conditions:**\n- You must have exercised reasonable care in safeguarding your card and PIN.\n- You must report the unauthorized activity promptly upon discovery.\n- You must cooperate with our investigation, including providing a written statement if requested.\n\n**Provisional Credits:**\nWhile we investigate, Nimbus Bank may issue a provisional credit to your account. This credit is temporary and may be reversed if our investigation finds the transactions were authorized. You will receive written notice before any reversal.",
+    "tags": ["liability", "zero_liability", "regulation_e", "regulation_z", "credit_card", "debit_card"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-15"
+  },
+  {
+    "id": "kb_dispute_001",
+    "title": "How to Dispute a Charge",
+    "category": "Dispute",
+    "subcategory": "dispute_process",
+    "policy_version": "2026-03",
+    "content": "If you see a charge on your Nimbus Bank account that you believe is incorrect — such as a wrong amount, a duplicate charge, or a charge for goods or services you did not receive — you can dispute it.\n\n**How to File a Dispute:**\n1. Log in to the Nimbus Bank app or online banking.\n2. Find the transaction in your account history.\n3. Tap or click the transaction, then select \"Dispute This Charge.\"\n4. Choose the reason for your dispute from the list provided.\n5. Provide any supporting details or documentation (receipts, order confirmations, correspondence with the merchant).\n\nAlternatively, you can call 1-800-NIMBUS-1 and select option 3 for disputes, or visit a branch.\n\n**What Happens After You File:**\n- We will acknowledge your dispute within 2 business days.\n- We will contact the merchant's bank to begin the chargeback process.\n- The investigation may take up to 60 calendar days for debit card transactions or up to 90 days for credit card transactions.\n- You may receive a provisional credit during the investigation period.\n\n**Important Notes:**\n- Always try to resolve the issue with the merchant directly before filing a dispute with the bank.\n- Keep all receipts, emails, and records related to the transaction.\n- You must file the dispute within 60 days of the statement date on which the charge appeared.",
+    "tags": ["dispute", "chargeback", "wrong_amount", "merchant"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-10"
+  },
+  {
+    "id": "kb_dispute_002",
+    "title": "Chargeback Timeline and Process",
+    "category": "Dispute",
+    "subcategory": "chargeback_timeline",
+    "policy_version": "2026-03",
+    "content": "When you dispute a charge with Nimbus Bank, the chargeback process follows a structured timeline governed by card network rules (Visa, Mastercard) and federal regulations.\n\n**Timeline Overview:**\n- Day 0: You file the dispute with Nimbus Bank.\n- Days 1-2: We acknowledge receipt of your dispute and may ask for additional documentation.\n- Days 3-10: We review your claim and, if eligible, submit a chargeback to the merchant's bank.\n- Days 10-45: The merchant has the opportunity to respond to the chargeback. They may accept it (you get your money back) or contest it.\n- Days 45-90: If the merchant contests, we review their response and make a final decision. In complex cases, the card network may arbitrate.\n\n**Provisional Credits:**\n- For debit card disputes, a provisional credit is typically issued within 10 business days.\n- For credit card disputes, the disputed amount may be temporarily removed from your balance.\n- If the dispute is resolved in the merchant's favor, the provisional credit will be reversed.\n\n**Possible Outcomes:**\n- Resolved in your favor: The charge is permanently reversed.\n- Resolved in the merchant's favor: The charge stands and any provisional credit is reversed.\n- Arbitration: The card network makes a binding decision.\n\nNimbus Bank will keep you informed at each stage via email and in-app notifications.",
+    "tags": ["chargeback", "timeline", "dispute_process", "provisional_credit", "card_network"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-10"
+  },
+  {
+    "id": "kb_dispute_003",
+    "title": "Goods Not Received — Dispute Policy",
+    "category": "Dispute",
+    "subcategory": "goods_not_received",
+    "policy_version": "2026-03",
+    "content": "If you paid for goods or services through your Nimbus Bank card and did not receive them, you may be eligible to file a dispute.\n\n**Before Filing with the Bank:**\n1. Contact the merchant directly. Many delivery issues can be resolved faster by working with the seller.\n2. Check tracking information if available. Sometimes packages are delivered to a neighbor or alternate location.\n3. Allow a reasonable delivery window — most merchants specify estimated delivery dates.\n4. If the merchant is unresponsive or refuses to help after 15 calendar days, proceed with a bank dispute.\n\n**Filing the Dispute:**\n- Use the Nimbus Bank app or call 1-800-NIMBUS-1, option 3.\n- Select the reason: \"Goods or services not received.\"\n- Provide: the expected delivery date, any tracking numbers, and records of communication with the merchant.\n\n**Eligibility:**\n- The charge must have posted to your account (pending charges cannot be disputed).\n- You must file within 60 days of the statement date.\n- Digital goods (downloads, streaming subscriptions) have additional requirements — contact us for details.\n\n**What to Expect:**\n- We will initiate a chargeback with the merchant's bank.\n- If the merchant cannot prove delivery, the charge will be reversed in your favor.\n- The process typically takes 30-60 days to resolve.",
+    "tags": ["goods_not_received", "delivery", "chargeback", "merchant_dispute"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-05"
+  },
+  {
+    "id": "kb_dispute_004",
+    "title": "Duplicate Charge Resolution",
+    "category": "Dispute",
+    "subcategory": "duplicate_charge",
+    "policy_version": "2026-03",
+    "content": "Seeing the same charge appear twice on your statement can be alarming, but duplicate charges are one of the most common and easily resolved billing issues.\n\n**Common Causes of Duplicate Charges:**\n- The merchant accidentally processed your payment twice.\n- A temporary authorization hold and the actual charge both appear (the hold will drop off within 3-5 business days).\n- You were charged for a subscription renewal and a separate manual payment.\n\n**Before Filing a Dispute:**\n1. Wait 3-5 business days. Many apparent duplicates are temporary authorization holds that will automatically disappear.\n2. Check if the amounts are exactly the same and from the same merchant. If the amounts differ slightly, they may be separate legitimate transactions.\n3. Contact the merchant — they can often reverse a duplicate charge faster than the bank dispute process.\n\n**Filing a Duplicate Charge Dispute:**\n- Through the app: Select the duplicate transaction > Dispute > \"I was charged more than once.\"\n- Provide the date and amount of both charges.\n\n**Resolution:**\n- If confirmed as a duplicate, the charge is reversed within 5-10 business days.\n- No provisional credit is typically needed as duplicate charges are usually resolved quickly.\n- You will receive confirmation when the reversal is complete.",
+    "tags": ["duplicate_charge", "authorization_hold", "billing_error", "reversal"],
+    "escalation_required": true,
+    "last_reviewed": "2026-03-05"
+  },
+  {
+    "id": "kb_access_001",
+    "title": "Password Reset — Step by Step",
+    "category": "Access_Issue",
+    "subcategory": "password_reset",
+    "policy_version": "2026-03",
+    "content": "If you have forgotten your Nimbus Bank online banking password, you can reset it in a few simple steps.\n\n**Online Reset:**\n1. Go to nimbusbank.com/login and click \"Forgot Password.\"\n2. Enter the email address associated with your account.\n3. You will receive a password reset link via email within 2 minutes. Check your spam folder if you do not see it.\n4. Click the link and create a new password. Requirements: at least 12 characters, one uppercase letter, one number, and one special character.\n5. After resetting, you will be logged out of all active sessions for security.\n\n**Mobile App Reset:**\n1. Open the Nimbus Bank app and tap \"Forgot Password\" on the login screen.\n2. Verify your identity via the phone number on file (you will receive a 6-digit SMS code).\n3. Create your new password.\n\n**If You Cannot Access Your Email or Phone:**\n- Call 1-800-NIMBUS-1, option 1 for account access.\n- You will need to verify your identity with your full name, date of birth, and the last four digits of your SSN.\n- A temporary password will be set, and you will be prompted to change it on first login.\n\n**Security Notes:**\n- Password reset links expire after 15 minutes.\n- You are limited to 5 reset attempts per 24-hour period.\n- After 3 consecutive failed login attempts, your account will be temporarily locked for 30 minutes.",
+    "tags": ["password_reset", "login", "forgot_password", "security"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_access_002",
+    "title": "PIN Recovery for Debit Cards",
+    "category": "Access_Issue",
+    "subcategory": "pin_recovery",
+    "policy_version": "2026-03",
+    "content": "If you have forgotten your Nimbus Bank debit card PIN or need to change it, here are your options:\n\n**Reset via the Mobile App:**\n1. Open the Nimbus Bank app.\n2. Go to Cards > Select your debit card > PIN Management.\n3. Tap \"Reset PIN.\"\n4. Verify your identity using your app login credentials or biometric authentication (fingerprint or face ID).\n5. Choose a new 4-digit PIN. Avoid obvious combinations like 1234, your birth year, or repeated digits.\n\n**Reset via ATM:**\n1. Visit any Nimbus Bank ATM.\n2. Insert your debit card.\n3. Select \"PIN Services\" > \"Reset PIN.\"\n4. You will need to enter your current PIN or verify via a one-time code sent to your registered phone.\n\n**Reset via Phone:**\n1. Call 1-800-NIMBUS-1, option 1.\n2. After identity verification, we will mail a new PIN to your address on file within 5-7 business days.\n3. For security, PINs cannot be communicated verbally over the phone.\n\n**If Your Card Is Locked Due to Too Many Wrong PIN Attempts:**\n- Your card is temporarily locked after 3 incorrect PIN entries.\n- The lock automatically lifts after 24 hours.\n- To unlock immediately, call our customer service line or visit a branch with a valid photo ID.",
+    "tags": ["pin_recovery", "debit_card", "pin_reset", "card_locked"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_access_003",
+    "title": "Account Lockout — What to Do",
+    "category": "Access_Issue",
+    "subcategory": "account_lockout",
+    "policy_version": "2026-03",
+    "content": "If your Nimbus Bank account has been locked, it is usually due to one of these security triggers:\n\n**Common Reasons for Lockout:**\n- 3 consecutive failed login attempts (temporary 30-minute lock).\n- Suspicious login activity detected from an unfamiliar device or location.\n- You or a bank representative locked the account for security reasons.\n- Your account has been inactive for more than 12 months.\n\n**How to Unlock Your Account:**\n\n*Temporary Lock (failed login attempts):*\n- Wait 30 minutes and try again with the correct credentials.\n- If you have forgotten your password, use the password reset process.\n\n*Security-Triggered Lock:*\n- You will receive an email and/or SMS notification explaining the lock.\n- Follow the instructions in the notification to verify your identity.\n- You may need to answer security questions or provide a one-time code.\n\n*Manual Unlock:*\n- Call 1-800-NIMBUS-1, option 1.\n- Visit a Nimbus Bank branch with a valid government-issued photo ID.\n- Identity verification is required: full name, date of birth, last four digits of SSN, and one recent transaction detail.\n\n**Prevention Tips:**\n- Keep your contact information up to date so you receive security notifications.\n- Enable biometric login to avoid password-related lockouts.\n- If traveling, notify the bank in advance to prevent location-based security triggers.",
+    "tags": ["account_lockout", "locked_account", "security", "unlock", "failed_login"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_access_004",
+    "title": "Mobile App Troubleshooting",
+    "category": "Access_Issue",
+    "subcategory": "mobile_app",
+    "policy_version": "2026-03",
+    "content": "If you are experiencing issues with the Nimbus Bank mobile app, try these troubleshooting steps:\n\n**App Won't Open or Crashes:**\n1. Force close the app and reopen it.\n2. Check that your phone's operating system is up to date. The Nimbus Bank app requires iOS 16+ or Android 12+.\n3. Update the Nimbus Bank app to the latest version from the App Store or Google Play.\n4. If the issue persists, uninstall and reinstall the app. Your account data is stored securely on our servers, not on your phone, so you will not lose anything.\n\n**Login Issues in the App:**\n- Ensure you are using the correct email and password.\n- Check that biometric login (fingerprint or face ID) is enabled in your phone's settings and in the app's settings.\n- If you see \"Session Expired,\" simply log in again. This is a normal security measure after periods of inactivity.\n\n**Features Not Loading (Blank Screens, Errors):**\n- Check your internet connection. Switch between Wi-Fi and cellular data to test.\n- Clear the app cache: Settings > Apps > Nimbus Bank > Clear Cache (Android) or delete and reinstall (iOS).\n- Some features may be temporarily unavailable during scheduled maintenance (typically Saturday 2-4 AM CT).\n\n**Still Having Issues?**\n- Call 1-800-NIMBUS-1, option 4 for technical support.\n- Include your phone model, OS version, and app version when reporting the issue.",
+    "tags": ["mobile_app", "app_crash", "troubleshooting", "technical_support"],
+    "escalation_required": false,
+    "last_reviewed": "2026-02-20"
+  },
+  {
+    "id": "kb_access_005",
+    "title": "Two-Factor Authentication (2FA) Setup",
+    "category": "Access_Issue",
+    "subcategory": "2fa_setup",
+    "policy_version": "2026-03",
+    "content": "Two-factor authentication adds an extra layer of security to your Nimbus Bank account by requiring a second form of verification when you log in.\n\n**How to Enable 2FA:**\n1. Log in to the Nimbus Bank app or online banking.\n2. Go to Settings > Security > Two-Factor Authentication.\n3. Choose your preferred method:\n   - **SMS Code:** A 6-digit code is sent to your registered phone number.\n   - **Authenticator App:** Use Google Authenticator, Authy, or any TOTP-compatible app. Scan the QR code displayed on screen.\n   - **Email Code:** A 6-digit code is sent to your registered email (least recommended for security).\n4. Enter the verification code to confirm setup.\n5. Save the backup codes provided — store them in a safe place. These allow you to log in if you lose access to your 2FA device.\n\n**Managing 2FA:**\n- To change your 2FA method: Settings > Security > Two-Factor Authentication > Change Method.\n- To disable 2FA: You must verify your identity first. Note that disabling 2FA reduces your account security.\n\n**Locked Out of 2FA:**\n- Use one of your backup codes to log in.\n- If you have no backup codes, call 1-800-NIMBUS-1, option 1. Identity verification is required, and the reset process takes 24-48 hours for security.\n\n**Why Use 2FA:**\n- Protects against password theft — even if someone has your password, they cannot log in without the second factor.\n- Required for high-value transactions (transfers over $1,000, international wires).",
+    "tags": ["2fa", "two_factor", "authentication", "security", "setup"],
+    "escalation_required": false,
+    "last_reviewed": "2026-02-20"
+  },
+  {
+    "id": "kb_access_006",
+    "title": "Forgotten Username Recovery",
+    "category": "Access_Issue",
+    "subcategory": "username_recovery",
+    "policy_version": "2026-03",
+    "content": "If you cannot remember your Nimbus Bank online banking username, here is how to recover it:\n\n**Online Recovery:**\n1. Go to nimbusbank.com/login and click \"Forgot Username.\"\n2. Enter the email address linked to your account.\n3. If a matching account is found, your username will be sent to that email within 2 minutes.\n4. Check your spam folder if you do not see the email.\n\n**Phone Recovery:**\n1. Call 1-800-NIMBUS-1, option 1.\n2. Verify your identity with your full name, date of birth, and the last four digits of your SSN.\n3. The representative will confirm your username verbally.\n\n**Branch Recovery:**\n- Visit any Nimbus Bank branch with a valid government-issued photo ID.\n- A banker will look up your account and provide your username.\n\n**Important Notes:**\n- Your username is different from your email address unless you specifically set it to be the same.\n- For security reasons, we cannot tell you whether a specific username exists in our system.\n- If you are still unable to log in after recovering your username, you may also need to reset your password.",
+    "tags": ["username_recovery", "forgot_username", "login", "account_access"],
+    "escalation_required": false,
+    "last_reviewed": "2026-02-15"
+  },
+  {
+    "id": "kb_inquiry_001",
+    "title": "Nimbus Bank Fee Schedule",
+    "category": "Inquiry",
+    "subcategory": "fees",
+    "policy_version": "2026-03",
+    "content": "Here is a summary of common fees at Nimbus Bank. For a complete fee schedule, visit nimbusbank.com/fees or request a copy at any branch.\n\n**Account Fees:**\n- Monthly maintenance fee (Standard Checking): $12/month. Waived if you maintain a $1,500 minimum daily balance or have a qualifying direct deposit of $500+/month.\n- Monthly maintenance fee (Premium Checking): $25/month. Waived with $15,000 combined balance across Nimbus accounts.\n- Savings account: No monthly fee.\n\n**Transaction Fees:**\n- Domestic wire transfer (outgoing): $25.\n- International wire transfer (outgoing): $45.\n- Incoming wire transfer: Free.\n- Overdraft fee: $35 per occurrence (maximum 3 per day). Opt out of overdraft coverage to avoid this fee.\n- Non-Nimbus ATM fee: $3 per transaction (the ATM operator may charge an additional fee).\n\n**Card Fees:**\n- Standard debit card replacement: Free.\n- Expedited debit card replacement (1-2 business days): $25.\n- Foreign transaction fee (credit cards): 2.5% of the transaction amount. No foreign transaction fee on the Nimbus World Traveler card.\n\n**Other Fees:**\n- Cashier's check: $10.\n- Stop payment: $30.\n- Paper statement: $5/month (electronic statements are free).\n- Account research (per hour, for old records): $25.\n\nFees are subject to change. Nimbus Bank provides 30 days advance notice before fee changes take effect.",
+    "tags": ["fees", "fee_schedule", "monthly_fee", "wire_transfer", "overdraft", "atm_fee"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_inquiry_002",
+    "title": "Account Types at Nimbus Bank",
+    "category": "Inquiry",
+    "subcategory": "account_types",
+    "policy_version": "2026-03",
+    "content": "Nimbus Bank offers several account types to fit your financial needs:\n\n**Checking Accounts:**\n- **Standard Checking:** Everyday banking with a debit card, online bill pay, and mobile deposits. $12/month fee, waivable.\n- **Premium Checking:** Everything in Standard plus higher ATM reimbursements ($20/month), no foreign transaction fees, and priority customer service. $25/month fee, waivable with $15,000 combined balance.\n- **Student Checking:** No monthly fee for students aged 17-24 with a valid .edu email. Includes all Standard Checking features.\n\n**Savings Accounts:**\n- **Standard Savings:** Earn 0.50% APY. No monthly fee. Six withdrawal limit per month per federal regulation.\n- **High-Yield Savings:** Earn 4.25% APY on balances up to $250,000. Requires $500 minimum opening deposit.\n\n**Certificates of Deposit (CDs):**\n- Terms from 3 months to 5 years.\n- APY ranges from 3.75% (3-month) to 5.10% (5-year).\n- Early withdrawal penalty: 90 days of interest for terms under 1 year; 180 days for longer terms.\n\n**Money Market:**\n- Earn 3.50% APY. Check-writing privileges included. $2,500 minimum balance.\n\nAll deposit accounts are FDIC insured up to $250,000 per depositor, per ownership category. Visit a branch or apply online at nimbusbank.com/accounts.",
+    "tags": ["account_types", "checking", "savings", "cd", "money_market", "interest_rates"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_inquiry_003",
+    "title": "Transfer Limits and Methods",
+    "category": "Inquiry",
+    "subcategory": "transfer_limits",
+    "policy_version": "2026-03",
+    "content": "Nimbus Bank supports several ways to move money, each with its own limits and processing times:\n\n**Internal Transfers (Between Nimbus Accounts):**\n- Limit: $50,000 per day.\n- Processing: Instant during business hours, next business day otherwise.\n- No fee.\n\n**External ACH Transfers (To/From Other Banks):**\n- Limit: $10,000 per day, $25,000 per month.\n- Processing: 1-3 business days.\n- No fee.\n\n**Domestic Wire Transfers:**\n- Limit: $100,000 per day.\n- Processing: Same business day if submitted before 4:00 PM CT.\n- Fee: $25 outgoing, free incoming.\n\n**International Wire Transfers:**\n- Limit: $50,000 per day.\n- Processing: 2-5 business days depending on the destination country.\n- Fee: $45 outgoing.\n- Exchange rates are set at the time of transfer and include a 1% markup.\n\n**Zelle (Person-to-Person):**\n- Limit: $2,500 per day, $20,000 per month.\n- Processing: Minutes (if recipient is enrolled in Zelle).\n- No fee.\n\n**Mobile Check Deposit:**\n- Limit: $5,000 per day, $15,000 per month.\n- Funds availability: First $225 available immediately, remainder by next business day.\n\nLimits can be temporarily increased by calling 1-800-NIMBUS-1. Increased limits require additional identity verification.",
+    "tags": ["transfer_limits", "wire_transfer", "ach", "zelle", "mobile_deposit", "international"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-01"
+  },
+  {
+    "id": "kb_inquiry_004",
+    "title": "Branch Hours and Locations",
+    "category": "Inquiry",
+    "subcategory": "branch_hours",
+    "policy_version": "2026-03",
+    "content": "Nimbus Bank has over 200 branches across Texas, with plans to expand to Oklahoma and Louisiana in 2026.\n\n**Standard Branch Hours:**\n- Monday through Friday: 9:00 AM – 5:00 PM CT\n- Saturday: 9:00 AM – 1:00 PM CT\n- Sunday: Closed\n\n**Extended-Hours Branches (Select Locations):**\n- Monday through Friday: 8:00 AM – 7:00 PM CT\n- Saturday: 9:00 AM – 3:00 PM CT\n- Sunday: Closed\n\nExtended-hours branches are located in Dallas (Main Street), Houston (Galleria), Austin (Congress Ave), and San Antonio (Riverwalk).\n\n**Holiday Schedule:**\nNimbus Bank branches are closed on all federal banking holidays: New Year's Day, Martin Luther King Jr. Day, Presidents' Day, Memorial Day, Juneteenth, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, and Christmas Day.\n\n**Find a Branch:**\n- Use the branch locator at nimbusbank.com/locations or in the mobile app under \"Locations.\"\n- Filter by services: notary, safe deposit boxes, mortgage specialist, business banking.\n\n**ATM Access:**\n- Over 500 Nimbus Bank ATMs across Texas, available 24/7.\n- Fee-free access at any Allpoint ATM (55,000+ locations nationwide).\n\n**Phone Banking:**\n- 1-800-NIMBUS-1 is available 24/7 for automated services.\n- Live agents available Monday through Saturday, 7:00 AM – 9:00 PM CT.",
+    "tags": ["branch_hours", "locations", "atm", "holiday_schedule", "phone_banking"],
+    "escalation_required": false,
+    "last_reviewed": "2026-02-15"
+  },
+  {
+    "id": "kb_inquiry_005",
+    "title": "How to Download Statements",
+    "category": "Inquiry",
+    "subcategory": "statements",
+    "policy_version": "2026-03",
+    "content": "You can access and download your Nimbus Bank account statements online or through the mobile app.\n\n**Online Banking:**\n1. Log in at nimbusbank.com.\n2. Navigate to Accounts > Select your account > Statements.\n3. Choose the statement period (monthly statements are available for the past 7 years).\n4. Click \"Download\" to save as PDF, or \"View\" to open in your browser.\n\n**Mobile App:**\n1. Open the Nimbus Bank app and log in.\n2. Tap your account > Statements & Documents.\n3. Select the statement period.\n4. Tap \"Download\" or \"Share\" to save or send the PDF.\n\n**Paper Statements:**\n- If you prefer paper statements, you can opt in under Settings > Statement Preferences.\n- Paper statements are mailed within 5 business days of the statement closing date.\n- There is a $5/month fee for paper statements. Electronic statements are free.\n\n**Tax Documents:**\n- 1099-INT forms (for interest earned) are available by January 31 each year.\n- Access them under Accounts > Tax Documents.\n\n**Statement Disputes:**\n- If you believe there is an error on your statement, you have 60 days from the statement date to report it.\n- Contact us at 1-800-NIMBUS-1 or through the app to initiate a review.\n\n**Tip:** Set up paperless statements to receive email notifications when your new statement is ready — better for the environment and your mailbox.",
+    "tags": ["statements", "download", "pdf", "paperless", "tax_documents", "1099"],
+    "escalation_required": false,
+    "last_reviewed": "2026-02-15"
+  },
+  {
+    "id": "kb_access_007",
+    "title": "Forgot Username or Password — Complete Recovery Guide",
+    "category": "Access_Issue",
+    "subcategory": "login_recovery",
+    "policy_version": "2026-03",
+    "content": "If you cannot log in to your Nimbus Bank account because you forgot your username, password, or both, follow the steps below. You do not need to visit a branch for most cases — everything can be done online or by phone.\n\n**SCENARIO 1: I FORGOT MY PASSWORD (but know my username)**\n\nStep 1: Go to nimbusbank.com/login and click \"Forgot Password.\"\nStep 2: Enter the email address associated with your account.\nStep 3: Check your inbox (and spam folder) for a password reset link. It arrives within 2 minutes.\nStep 4: Click the link and create a new password. It must be at least 12 characters with one uppercase letter, one number, and one special character.\nStep 5: Log in with your username and new password. All other active sessions will be logged out automatically for your security.\n\nAlternatively, in the Nimbus Bank mobile app: tap \"Forgot Password\" on the login screen, verify your identity via SMS code to your registered phone, and set a new password.\n\n**SCENARIO 2: I FORGOT MY USERNAME (but know my password)**\n\nStep 1: Go to nimbusbank.com/login and click \"Forgot Username.\"\nStep 2: Enter the email address linked to your account.\nStep 3: Your username will be emailed to you within 2 minutes. Check your spam folder.\nStep 4: Log in with the recovered username and your existing password.\n\nIf you no longer have access to your email, call 1-800-NIMBUS-1 (option 1). After verifying your identity (full name, date of birth, last four digits of SSN), a representative will confirm your username.\n\n**SCENARIO 3: I FORGOT BOTH MY USERNAME AND PASSWORD**\n\nStep 1: Call 1-800-NIMBUS-1 and select option 1 for account access.\nStep 2: Verify your identity with the representative: full name, date of birth, last four digits of your SSN, and one recent transaction or account detail.\nStep 3: The representative will confirm your username and set a temporary password.\nStep 4: Log in with the temporary password. You will be prompted to create a new permanent password on first login.\n\nAlternatively, visit any Nimbus Bank branch with a valid government-issued photo ID for in-person identity verification and immediate account recovery.\n\n**IMPORTANT NOTES:**\n- Password reset links expire after 15 minutes. Request a new one if yours expired.\n- You are limited to 5 password reset attempts per 24 hours.\n- After 3 failed login attempts, your account is temporarily locked for 30 minutes.\n- If your account is locked, wait 30 minutes or call 1-800-NIMBUS-1 to unlock immediately.\n- For security, Nimbus Bank will never ask for your full password over the phone or email.\n- We recommend enabling two-factor authentication (2FA) after recovery for added security: go to Settings > Security > Two-Factor Authentication.",
+    "tags": ["forgot_password", "forgot_username", "login_recovery", "password_reset", "username_recovery", "account_access", "locked_out"],
+    "escalation_required": false,
+    "last_reviewed": "2026-03-15"
+  }
+]

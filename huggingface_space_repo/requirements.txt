@@ -1,0 +1,42 @@
+# ============================================================
+# Nimbus Bank Intelligent Support Triage System
+# Direct project dependencies — pinned to exact tested versions
+#
+# Install:  pip install -r requirements.txt
+# Python:   3.13+ (tested on 3.13.5)
+# ============================================================
+
+# ── Orchestration ────────────────────────────────────────────
+langgraph==1.1.9
+langsmith==0.7.33
+
+# ── LLM Providers ───────────────────────────────────────────
+langchain-anthropic==1.4.1          # Claude Haiku + Sonnet
+anthropic==0.96.0                   # Anthropic Python SDK
+
+# ── Vector Store & RAG ───────────────────────────────────────
+langchain-chroma==1.1.0             # LangChain ↔ ChromaDB bridge
+chromadb==1.5.8                     # Vector database (in-process)
+sentence-transformers>=3.0.0        # Local embeddings (all-MiniLM-L6-v2, no API key)
+
+# ── Data Validation & Structured Output ──────────────────────
+pydantic==2.13.3                    # Schema validation for LLM output
+instructor==1.15.1                  # Structured LLM output helper
+
+# ── Resilience ───────────────────────────────────────────────
+tenacity==9.1.4                     # Retry logic with exponential backoff
+
+# ── Web UI ───────────────────────────────────────────────────
+streamlit==1.56.0                   # Frontend dashboard
+
+# ── API Server ───────────────────────────────────────────────
+fastapi==0.136.0                    # REST API framework
+uvicorn==0.45.0                     # ASGI server
+
+# ── Configuration ────────────────────────────────────────────
+python-dotenv==1.2.2                # Load .env files
+
+# ── Testing ──────────────────────────────────────────────────
+pytest==9.0.3                       # Test runner
+pytest-asyncio==1.3.0               # Async test support
+faker==40.15.0                      # Synthetic data generation
