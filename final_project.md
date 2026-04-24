@@ -118,7 +118,7 @@ When a user submits a ticket:
 
 The original code ran on macOS. These changes were made so it works on Windows:
 
-- added [run_windows.ps1](./run_windows.ps1) as the Windows startup script
+- added [main.ps1](./main.ps1) as the Windows startup script
 - forced UTF-8 handling for prompts, JSON files, and logs
 - created `.venv`-based setup flow for Windows
 - added safe temporary directory handling with `.tmp`
@@ -165,13 +165,13 @@ This same fix was copied into:
 From the project root:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\run_windows.ps1
+powershell -ExecutionPolicy Bypass -File .\main.ps1
 ```
 
 If the KB index must be rebuilt:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\run_windows.ps1 -RebuildIndex
+powershell -ExecutionPolicy Bypass -File .\main.ps1 -RebuildIndex
 ```
 
 ## Required Environment Variables
@@ -235,7 +235,7 @@ If someone needs to understand the project quickly, start with:
 5. [src/state.py](./src/state.py)
 6. [src/agents](./src/agents)
 7. [src/utils/models.py](./src/utils/models.py)
-8. [run_windows.ps1](./run_windows.ps1)
+8. [main.ps1](./main.ps1)
 9. [huggingface_space_repo](./huggingface_space_repo)
 
 ## Final Conclusion
