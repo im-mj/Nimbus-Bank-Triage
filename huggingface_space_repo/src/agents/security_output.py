@@ -6,11 +6,14 @@ Final agent in the pipeline. Performs:
 2. Structured audit log assembly (metadata only, no raw content)
 """
 
+import os
 import time
 from datetime import datetime, timezone
 
 from src.utils.pii import scrub_output
 from src.utils.logging import build_audit_entry, audit_logger
+
+INJECTION_THRESHOLD = float(os.environ.get("INJECTION_SCORE_THRESHOLD", "0.80"))
 
 
 def security_agent_output(state: dict) -> dict:
@@ -29,6 +32,23 @@ def security_agent_output(state: dict) -> dict:
     """
     draft = state.get("draft_response", "")
     errors = list(state.get("errors", []))
+    injection_score = state.get("injection_score", 0.0)
+    ticket_id = state.get("ticket_id", "N/A")
+
+    # ── Injection short-circuit: draft was never generated ────
+    # When injection score exceeds threshold the graph routes directly here,
+    # skipping classifier/retriever/drafter/critic. Build a safe refusal so
+    # final_response is never empty.
+    is_injection_block = (not draft) and (injection_score > INJECTION_THRESHOLD)
+    if is_injection_block:
+        draft = (
+            f"Thank you for contacting Nimbus Bank (Ticket: {ticket_id}).\n\n"
+            "Your request was flagged by our automated security system and could not "
+            "be processed. If you believe this is an error, please reach us directly:\n\n"
+            "- **Phone:** 1-800-NIMBUS-1 (24/7)\n"
+            "- **Email:** support@nimbusbank.com\n\n"
+            "Warm regards,\nNimbus Bank Support Team"
+        )
 
     # ── Step 1: Final PII scrub (whitelists bank contact info) ─
     final_response, pii_flags_output, pii_details_output = scrub_output(draft)
@@ -58,10 +78,20 @@ def security_agent_output(state: dict) -> dict:
     audit_entry = build_audit_entry(completed_state, latency_ms)
     stored_entry = audit_logger.log(audit_entry)
 
-    return {
+    result = {
         "final_response": final_response,
         "pii_flags_output": pii_flags_output,
         "pii_details_output": pii_details_output,
         "audit_log": stored_entry,
         "errors": errors,
     }
+
+    # Populate escalation fields that were never set (critic was skipped)
+    if is_injection_block:
+        result["safe_to_send"] = False
+        result["blocked_rules"] = [f"injection_score_{injection_score:.2f}"]
+        result["escalation_reason"] = (
+            f"Prompt injection detected (score: {injection_score:.2f})"
+        )
+
+    return result
